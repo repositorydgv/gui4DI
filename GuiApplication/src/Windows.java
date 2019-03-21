@@ -3,6 +3,10 @@ import javax.swing.*;
 
 public class Windows extends JFrame
 {
+	/**
+	 * Questo commento è dimostrativo per l'uso di 
+	 * un nuovo commit
+	 */
 	JPanel p = new JPanel();
 	
 	JTextArea ta;
